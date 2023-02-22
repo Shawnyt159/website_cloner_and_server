@@ -8,12 +8,15 @@ This is used for crednetial farming. DO NOT DO THIS TO ANYONE. I am not responsb
 1.) Donwload python3 if you don't have it
 
 2.) Run:
+
 pip3 install flask
 
 3.) Clone this repository
 
 4.) Run
+
 cd website_cloner_and_server
+
 python3 clone.py
 
 5.) Enter in the website url you wish to use including http or https
