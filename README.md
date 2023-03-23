@@ -7,7 +7,7 @@ THIS DOES NOT WORK WITH ALL WEBSITES
 
 
 # How To Run
-1.) Donwload python3 if you don't have it
+1.) Download python3 if you don't have it
 
 2.) Run:
 
